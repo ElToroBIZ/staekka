@@ -31,7 +31,7 @@ Copy Metasploit plugins
 mkdir -p $HOME/.msf4/plugins/
 cp  $STAEKKA_PATH/plugins/staekka.rb $HOME/.msf4/plugins/
 cp  $STAEKKA_PATH/plugins/info_path.rb $HOME/.msf4/plugins/
-
+```
 Installation of dependencies (gem installation without root required)
 ```
 gem install --user bindata
